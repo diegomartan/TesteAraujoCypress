@@ -1,0 +1,20 @@
+{
+  "name": "testeautomacaocypressaraujo",
+  "version": "1.0.0",
+  "description": "Projeto de automação em Cypress - Araujo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "testearaujo",
+    "diegomartin"
+  ],
+  "author": "Diego Martin",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
